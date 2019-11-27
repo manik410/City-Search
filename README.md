@@ -10,5 +10,5 @@ A webpage has been created where the user can see the name of all the cities and
 =>Jquery
 
 #Api Used
-"https://programming-quotes-api.herokuapp.com/quotes/lang/en"
+"https://indian-cities-api-nocbegfhqg.now.sh/cities"
 
