@@ -10,7 +10,7 @@ A webpage has been created where the user can see the name of all the cities and
 =>Jquery
 
 # Api Used
-[Click here]("https://indian-cities-api-nocbegfhqg.now.sh/cities")
+[Click here](https://indian-cities-api-nocbegfhqg.now.sh/cities)
 
 # Website is Live at
-[Click here]("https://manik410.github.io/City-Search/")
+[Click here](https://manik410.github.io/City-Search/)
